@@ -1,11 +1,11 @@
-# templateRepo
+# template-repo
 
 A clean, multi-purpose project template for **Python · Rust · Web · Mobile · AI/ML · Agentic** solutions.
 
 ## Repository Structure
 
 ```
-templateRepo/
+template-repo/
 ├── .github/
 │   ├── ISSUE_TEMPLATE/
 │   │   ├── bug_report.md        # Bug report template
