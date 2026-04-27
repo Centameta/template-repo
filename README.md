@@ -1,4 +1,5 @@
 # template-repo
+test
 
 A clean, multi-purpose project template for **Python · Rust · Web · Mobile · AI/ML · Agentic** solutions.
 
