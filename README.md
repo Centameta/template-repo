@@ -2,7 +2,9 @@
 
 A clean, multi-purpose project template for **Python · Rust · Web · Mobile · AI/ML · Agentic** solutions.
 
-## Repository Structure
+## Initialization options
+
+- **Hermes Projects**: template-repo may be used to scaffold code projects for use with **Hermes Agent** as a companion. Start with `proj_webpage/` for web-based exploration and extend from there.
 
 ```
 template-repo/
